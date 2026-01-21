@@ -1,4 +1,4 @@
-*Technical Highlights:*
+#Technical Highlights:#
 
 Smart Navigation: The script first extracts all Genre links from the sidebar and then iterates through them to classify books automatically.
 
